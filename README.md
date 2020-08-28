@@ -1,6 +1,5 @@
 # table
-<html>
-<body>
+<table>
 <tr>
 <td>susie</td>
 <td>23</td>
@@ -11,6 +10,4 @@
 <td>19</td>
 <td>08</td>
 </tr>
-</body>
-</html>
-  
+
